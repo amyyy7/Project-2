@@ -1,0 +1,55 @@
+body{
+	background-color:#ecc6d8
+}
+
+
+
+.grid{
+	 grid-template-columns: 700px 700px 700px;
+	 grid-template-rows: 100px 100px 100px;
+	 display: grid;
+	 grid-gap:3px;
+	 color:white;
+}
+
+.item1{
+	border: solid white 7px;
+	font-size: 43px;
+	background-color:grey;
+}
+.item2{
+	border: solid white 7px;
+     font-size: 43px;
+	 background-color:grey;
+}  
+.item3{
+	border: solid white 7px;
+	font-size: 43px;
+	background-color:grey;
+}
+.item4{
+	height:60px;
+	width:1361px;
+	border: solid white 7px;
+  background-color:grey;
+  font-size:35px;
+	
+}
+.item5{
+	height:600px;
+	width:700px;
+	border: solid white 7px;
+	
+}
+
+.item6{
+	height:600px;
+	width:700px;
+	border: solid white 7px;
+	
+}
+
+img{
+	height:100%;
+	width:100%;
+}
